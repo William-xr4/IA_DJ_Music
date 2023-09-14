@@ -6,7 +6,8 @@ body{
     background-size:cover;
 }
 canvas{
-    margin-top: 150px;
+    margin-top: 50px;
+    padding-bottom: 50px;
 }
 .div_speed
   {
@@ -15,7 +16,7 @@ canvas{
   .div_speed_img
   {
   	width: 200px; 
-  	border-radius: 100px;
+  	border-radius: 80px;
   }
   #speed
   {
@@ -29,7 +30,7 @@ canvas{
   .div_volume_img
   {
   	width: 200px; 
-  	border-radius: 100px;
+  	border-radius: 80px;
   }
   #volume
   {
